@@ -21,6 +21,7 @@ const benefits = [
   "Enhanced self-awareness and mental health management.",
   "Identification of emotional patterns and triggers.",
   "Support for personal growth and informed decision-making.",
+  "Facilitates Communication with Healthcare Professionals.",
   "Strengthening of community ties through sharing.",
 ];
 

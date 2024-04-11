@@ -9,9 +9,8 @@ const Navbar = () => {
           <Link to="/">Home</Link>
         </li>
         <li style={{ display: "inline", marginRight: "10px" }}>
-          <Link to="/moodtracker">Mood Tracker</Link> {/* Link to the mood tracker route */}
+          <Link to="/moodtracker">Mood Tracker</Link> 
         </li>
-        {/* Add more navigation links as needed */}
       </ul>
     </nav>
   );

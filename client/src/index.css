@@ -19,7 +19,7 @@ button {
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: RGB(75, 192, 192);
 }
 
 .container {

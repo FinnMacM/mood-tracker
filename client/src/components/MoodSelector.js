@@ -1,6 +1,7 @@
 import React from 'react';
 import '../styles/MoodSelector.css';
 
+
 const MoodSelector = ({ onMoodSelect }) => {
   const moods = ['Excited', 'Happy', 'Neutral', 'Anxious', 'Sad', 'Angry'];
 
